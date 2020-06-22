@@ -1,0 +1,7 @@
+numpy>=1.16.4
+pandas>=0.24.2
+pybloom-live==3.0.0
+pyodbc==4.0.26
+bitarray==1.2.1
+tqdm==4.34.0
+ibm-db==2.0.9
